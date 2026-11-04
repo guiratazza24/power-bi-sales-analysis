@@ -3,7 +3,9 @@
 ## 📌 Project Overview
 
 This project focuses on analyzing sales performance using Microsoft Power BI. The objective is to transform raw data into meaningful business insights through an interactive dashboard.
+## 📸 Dashboard Preview
 
+![Sales Analysis Dashboard](sales-dashboard.png.png)
 ## 🛠️ Tools & Technologies
 
 - **Power BI** – Dashboard creation and data visualization
